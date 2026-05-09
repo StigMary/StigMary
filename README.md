@@ -1,16 +1,69 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Hello!%20I'm%20StigMary&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Python%20Developer%20%7C%20Automation%20Enthusiast&descAlignY=55&descAlign=50" alt="Header" />
+</div>
 
-<!--
-**StigMary/StigMary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <a href="https://github.com/StigMary">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0A84FF&center=true&vCenter=true&width=435&lines=Building+Telegram+Bots...;Developing+iOS+Apps+on+Pythonista...;Automating+Infrastructure..." alt="Typing SVG" />
+  </a>
+</div>
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Welcome to my GitHub profile! I'm passionate about building reliable automation tools, Telegram bots, and mobile utilities. 
+
+- 🚀 Constantly learning and building practical tools to solve real-world problems.
+- 📱 Specializing in Python, ranging from backend services to on-device iOS applications (Pythonista).
+- 🛠 Building secure and self-hosted infrastructure tools.
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Telegram_Bots-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Bots" />
+  <img src="https://img.shields.io/badge/iOS_Pythonista-000000?style=for-the-badge&logo=apple&logoColor=white" alt="iOS Pythonista" />
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/WireGuard-881798?style=for-the-badge&logo=wireguard&logoColor=white" alt="WireGuard" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</div>
+
+<br>
+
+---
+
+## 🌟 Top Projects
+
+### 🛡️ [Bot-Amnezia-WG](https://github.com/StigMary/Bot-Amnezia-WG)
+A fully-featured, secure Telegram bot for managing an AmneziaVPN / WireGuard server. Includes a client cabinet, admin dashboard, Helpdesk system, multi-device support, and billing management.
+
+### 📷 [PhotoReport-Pythonista](https://github.com/StigMary/PhotoReport-Pythonista)
+A native-feeling iOS mobile application for creating structured photo reports. Built entirely with Pythonista 3. Features automatic date watermarks, custom database, and one-tap ZIP export.
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=StigMary&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="StigMary's GitHub stats" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=StigMary&theme=radical&hide_border=true&background=0D1117" alt="StigMary's GitHub streak" />
+</div>
+
+---
+
+## 📫 Connect with me & Support
+
+If my projects helped you or you just want to say hi, feel free to reach out! If you'd like to support my work, you can buy me a coffee ☕:
+
+<div align="center">
+  <a href="https://t.me/kjznnetx"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  <a href="https://boosty.to/kjznnetx/donate"><img src="https://img.shields.io/badge/Boosty-Support-orange?style=for-the-badge" alt="Boosty" /></a>
+  <a href="https://app.tonkeeper.com/transfer/UQCGEByMVxefI4hpLvoCOuvaS9EbDPC0d-wPzMCuBql9DFJW"><img src="https://img.shields.io/badge/TON-Donate-0098EA?style=for-the-badge&logo=telegram" alt="TON" /></a>
+</div>
+
+<div align="center">
+  <p><i>"Code is poetry."</i></p>
+</div>
