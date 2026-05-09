@@ -12,13 +12,21 @@
   </a>
 </div>
 
-## 👨‍💻 About Me
+## 👋 About Me
 
-Welcome to my GitHub profile! I'm passionate about building reliable automation tools, Telegram bots, and mobile utilities. 
+Hi, I'm Alexandr. I'm a network engineer who loves Python and automation.
 
-- 🚀 Constantly learning and building practical tools to solve real-world problems.
-- 📱 Specializing in Python, ranging from backend services to on-device iOS applications (Pythonista).
-- 🛠 Building secure and self-hosted infrastructure tools.
+I enjoy it when complex systems run like clockwork and boring routines are handled automatically. From configuring secure tunneling (WireGuard, Xray) to writing convenient Telegram bots — I simply love building useful and stable tools.
+
+**What I'm up to lately:**
+- Upgrading and managing my home mini-server
+- Diving into Ansible and Kubernetes to grow as an SRE
+- Coding for fun (for instance, I built a fully functional iOS app directly on my iPhone using Pythonista)
+
+**My mindset:**
+Good code and infrastructure should be clean, readable, and able to survive a 3 AM debugging session. 
+
+I'm open to interesting projects, freelance work, and opportunities in Networking / SRE!
 
 ---
 
