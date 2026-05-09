@@ -3,6 +3,10 @@
 </div>
 
 <div align="center">
+  <p><a href="README_RU.md">🇷🇺 Русская версия</a></p>
+</div>
+
+<div align="center">
   <a href="https://github.com/StigMary">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0A84FF&center=true&vCenter=true&width=435&lines=Building+Telegram+Bots...;Developing+iOS+Apps+on+Pythonista...;Automating+Infrastructure..." alt="Typing SVG" />
   </a>
